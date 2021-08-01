@@ -18,6 +18,12 @@ namespace PrinciplesOfOOP
                 pet.Checkup();
             }
 
+            Console.WriteLine("\n\tAnd now, time to go:");
+            goose.Follow(goose.Name);
+            dog.Follow(dog.Name);
+            horse.Follow(horse.Name);
+            donkey.Follow(donkey.Name);
+
             Console.ReadKey();
         }
     }
