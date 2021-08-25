@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingCarculator", "TestingCarculator\TestingCarculator.csproj", "{303340E4-2FAE-4FD6-BAB1-83F008A0008C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingCarculator.Tests", "TestingCarculator.Tests\TestingCarculator.Tests.csproj", "{C730C4DA-A863-4B78-A49E-B8924CD30264}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{303340E4-2FAE-4FD6-BAB1-83F008A0008C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{303340E4-2FAE-4FD6-BAB1-83F008A0008C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{303340E4-2FAE-4FD6-BAB1-83F008A0008C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{303340E4-2FAE-4FD6-BAB1-83F008A0008C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C730C4DA-A863-4B78-A49E-B8924CD30264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C730C4DA-A863-4B78-A49E-B8924CD30264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C730C4DA-A863-4B78-A49E-B8924CD30264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C730C4DA-A863-4B78-A49E-B8924CD30264}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56C7C7BA-8908-4910-8F4A-1D6E181B9A73}
+	EndGlobalSection
+EndGlobal
